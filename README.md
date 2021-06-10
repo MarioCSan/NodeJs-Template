@@ -1,12 +1,12 @@
-# node-js-template
+# NodeJs-Template
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+Plantilla de NodeJS para empezar proyectos rápidamente [Express 4](http://expressjs.com/).
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+Esta aplicacion soporta [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
 
-## Running Locally
+## Ejecución en local
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Asegurate de que tienes [Node.js](http://nodejs.org/) y [Heroku CLI](https://cli.heroku.com/) instalado.
 
 ```sh
 $ git clone git@github.com:jomaoppa/node-js-template.git # or clone your own fork
@@ -15,16 +15,16 @@ $ npm install
 $ npm start
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+Tu aplicación debe estar ejecutandose en [localhost:5000](http://localhost:5000/).
 
-## Deploying to Heroku
+## Desplegando en Heroku
 
 ```
 $ heroku create
 $ git push heroku master
 $ heroku open
 ```
-or
+o
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
