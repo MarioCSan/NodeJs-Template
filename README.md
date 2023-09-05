@@ -8,7 +8,7 @@ Esta aplicacion soporta [Getting Started with Node on Heroku](https://devcenter.
 
 Asegurate de que tienes [Node.js](http://nodejs.org/) instalado.
 ```sh
-$ git clone git@github.com:jomaoppa/node-js-template.git # or clone your own fork
+$ git clonegit@github.com:MarioCSan/NodeJs-Template.git # or clone your own fork
 $ cd node-js-template
 $ npm install
 $ npm start
